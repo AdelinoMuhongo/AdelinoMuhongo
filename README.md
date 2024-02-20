@@ -5,7 +5,7 @@
 
 - 🤝🏾 I’m looking to collaborate on **embedded/tech related and business projects!**
 
-- 📝 You can find some more infos on [adelino.me](www.adelino.me)
+- 📝 You can find some more infos on [adelino.me](https://www.adelino.me)
 
 - 💬 Ask me about **anything and everything (I can't promise to have the answer, though ^^)**
 
