@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Adelino</h1>
-<h3 align="center">A tech enthusiast with a background on Industrial Digital Performance (Industrial Computing)</h3>
+<h3 align="center">A tech enthusiast, entrepreneur with a background on Industrial Digital Performance (Industrial Computing)</h3>
 
 - 🔭 I’m currently working on **...🤫**
 
-- 🤝🏾 I’m looking to collaborate on **embedded/tech related and business project**
+- 🤝🏾 I’m looking to collaborate on **embedded/tech related and business projects!**
 
-- 📝 You can find some more infos on [adelino.me](adelino.me)
+- 📝 You can find some more infos on [adelino.me](www.adelino.me)
 
-- 💬 Ask me about **anything and everything (I can't promise to have the answer, though)**
+- 💬 Ask me about **anything and everything (I can't promise to have the answer, though ^^)**
 
-- 📫 Feel free to reach out **by mailing me or sending a DM on social media**
+- 📫 Feel free to reach out **by mailing me or sending a DM on social media ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
