@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adelino</h1>
-<h3 align="center">A tech enthusiast, entrepreneur with a background on Industrial Digital Performance (Industrial Computing)</h3>
+<h3 align="center">A tech enthusiast, entrepreneur, with a background in Industrial Digital Performance (Industrial Computing)</h3>
 
 - 🔭 I’m currently working on **...🤫**
 
