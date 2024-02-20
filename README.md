@@ -17,9 +17,6 @@
 <a href="https://linkedin.com/in/adelino-muhongo-mateus-18651b192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adelino-muhongo-mateus-18651b192" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ade2m"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ade2m" /></a></p><br><br>
 
